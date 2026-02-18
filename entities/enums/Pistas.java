@@ -1,0 +1,28 @@
+package entities.enums;
+
+public enum Pistas {
+	AUSTRALIA,
+	CHINA,
+    JAPAO,
+    BAHREIN,
+    ARABIA_SAUDITA,
+    MIAMI,
+    CANADA,
+    MONACO,
+	BARCELONA_CATALUNHA,
+    AUSTRIA,
+    INGLATERRA,
+    BELGICA,
+    HUNGRIA,
+    HOLANDA,
+    ITALIA,
+    ESPANHA,
+    AZERBAIJAO,
+    SINGAPURA,
+    ESTADOS_UNIDOS,
+    MEXICO,
+    SAO_PAULO,
+    LAS_VEGAS,
+    CATAR,
+    ABU_DHABI;
+}

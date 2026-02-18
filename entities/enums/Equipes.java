@@ -1,0 +1,15 @@
+package entities.enums;
+
+public enum Equipes {
+	MCLAREN,
+	MERCEDES,
+	RED_BULL_RACING,
+	FERRARI,
+	WILLIAMS,
+	RACING_BULLS,
+	ASTON_MARTIN_RACING,
+	HAAS_F1_TEAM,
+	ALPINE,
+	AUDI,
+	CADILLAC;
+}
